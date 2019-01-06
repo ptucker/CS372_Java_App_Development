@@ -1,0 +1,11 @@
+Instead of uploading a ZIP file, upload each .java file into it's own folder.
+
+HW01_03: file doesn't compile. -5
+
+    for readablility, use character values:
+         if (test[0] < '0')
+         
+HW01_05: Don't make everything public. Make member variables private, and use get/set functions. -5
+HW01_06: Again, make variables private. -5
+
+85/100
